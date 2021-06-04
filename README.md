@@ -3,7 +3,7 @@
 using: web proxy +  axios
 
 ```javscript 
-    // Make a request for a user with a given ID
+    // get request 
         axios.get('https://edu.glogster.com/proxy?url=[api link]')
         .then(function (response) {
             // handle success
