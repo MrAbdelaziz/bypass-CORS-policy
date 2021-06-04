@@ -18,7 +18,7 @@ using: web proxy +  axios
    [:::::[                      ]:::::] █ ███ █ █▀▀███▀▀▀██▀████▄
    [:::::[                      ]:::::] █ ▀▀▀ █ ██▄ ▀ ▄▄▄▄▄█ ▀  █
    [[[[[[[[[[[[[[[      ]]]]]]]]]]]]]]] ▀▀▀▀▀▀▀ ▀▀ ▀▀▀▀   ▀  ▀▀▀▀
-  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js" alt=""></script>
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
 ```
 ## script
 
